@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Computer Science Student
 ------------------------
 
-I have knowledge in JavaScript, Python, CSS, and HTML, and I have been learning computer science independently for about 3 years and just began higher education. I left for college right out of high school to study computer science, and began my first semester in August of 2024. I'm looking to earn my bachelors degree in Computer Science with a Concentration in software development by spring of 2028. I enjoy layering my learning by practicing and educating myself outside of class on different languages and programming techniques as well.
+I have knowledge in Java, JavaScript, Python, CSS, and HTML, and I have been learning computer science independently for about 3 years and just began higher education. I left for college right out of high school to study computer science, and began my first semester in August of 2024. I'm looking to earn my bachelors degree in Computer Science with a Concentration in software development by spring of 2028. I enjoy layering my learning by practicing and educating myself outside of class on different languages and programming techniques as well.
 
 * 🌍  I'm based in Radford, Virginia
 * 🖥️  See my portfolio at [Portfolio Website](http://graydon-yingling.github.io/Personal-Website/)
